@@ -184,3 +184,7 @@ Please, make sure all steps are using **the same** python version and that you h
 ### Wandb link
 
 https://wandb.ai/av3rycha-western-governors-university/nyc_airbnb?nw=nwuserav3rycha
+
+### GitHub link
+
+https://github.com/av3rycha/Project-Build-an-ML-Pipeline-Starter
